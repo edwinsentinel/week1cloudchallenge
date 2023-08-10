@@ -8,7 +8,8 @@ This project demonstrates the deployment of a static website using Azure Storage
 
 ## Architectural Diagram
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688709556557/3c6a354d-be74-45fd-8d0d-90282a244ce6.png?auto=compress,format&format=webp">
+![azure1](https://github.com/edwinsentinel/week1cloudchallenge/assets/7680114/630946a1-2414-4701-8a61-b1416cf547d1)
+
 
 ## Prerequisites
 
